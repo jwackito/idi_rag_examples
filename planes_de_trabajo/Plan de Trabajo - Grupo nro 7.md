@@ -2,7 +2,9 @@
 Non playable character adventure
 ## Integrantes del grupo
 - Valentin Ciamparella
-- Bicocchi Damián
+- Damián Bicocchi
+- Juan Manuel Tarrío
+- Lucas Matías Corbalan Saez
 ## Cronograma
 
 ### Selección y preprocesamiento de los datos
